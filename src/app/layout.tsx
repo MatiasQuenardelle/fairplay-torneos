@@ -6,7 +6,7 @@ const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
 });
-
+// asd
 export const metadata: Metadata = {
   title: "FairPlay | Torneos Regionales de Fútbol — Chaco",
   description:
